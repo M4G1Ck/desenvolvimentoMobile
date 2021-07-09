@@ -1,0 +1,30 @@
+*Projeto feito em Expo 
+  link:
+  https://expo.io/
+
+*Rect Navigation
+  link:
+  https://reactnavigation.org/
+
+  comando:
+  yarn add @react-navigation/native
+
+  *Tab navigation
+    link: 
+    https://reactnavigation.org/docs/tab-based-navigation  
+
+    comando:
+    yarn add @react-navigation/bottom-tabs
+
+*Hook usados:
+  useState
+
+*Async Storage
+  link:
+  https://docs.expo.io/versions/latest/sdk/async-storage/
+
+  comando:
+  expo install @react-native-async-storage/async-storage
+
+  doc:
+  https://react-native-async-storage.github.io/async-storage/docs/usage/
