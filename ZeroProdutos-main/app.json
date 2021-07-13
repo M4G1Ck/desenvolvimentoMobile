@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "ZeroProdutos",
+    "slug": "ZeroProdutos",
+    "version": "1.0.0",
+    "icon": "./assets/favicon.png",
+    "splash": {
+      "image": "./assets/splash/splash-brancoa.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#6ab982"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
